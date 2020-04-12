@@ -1,1 +1,3 @@
-
+0.0.0.0 	mkt.esencias.eu
+0.0.0.0 	rexonapowers6.com
+0.0.0.0 	digitalsassets.com
